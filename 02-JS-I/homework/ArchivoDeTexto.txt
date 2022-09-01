@@ -1,0 +1,5 @@
+* Variables: Las variables son datos que pueden ir cambiando según avanza la escritura del codigo.
+ * Strings: Es un escrito encerrado entre comillas
+ * Funciones (argumentos, `return`): Son declaraciones que buscan realizar un procedimiento automaticamante.
+ * Declaraciones `if`: En Inglés "SI"...Tiene por objeto condicionar una acción o resultado.
+ * Valores booleanos (`true`, `false`): Distinguen una accion como verdadera o falsa segun lo establezca una condicion o funcion automatizada.
