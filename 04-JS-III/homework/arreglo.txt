@@ -1,0 +1,4 @@
+Arreglo: Es un contenedor de datos. Sirve para guardar informacion. 
+Por ejemplo: la cantidad completa de un curso de alumnos de 12 años. 
+Cada alumno tendrá una posicion pero la gran diferencia a cuando 
+contamos en un arreglo es que comienza por 0.
