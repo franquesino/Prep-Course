@@ -1,0 +1,1 @@
+Funciones Callback: Es la posibilidad de pasar una funcion a otra funcion y se puede realizar en todo momento.
