@@ -1,0 +1,8 @@
+    * Objetos: Un objeto almacena mucha información sobre una cosa
+	* Propiedades: Es un atributo de un elemento de un objeto
+	* Métodos: Es una propiedad pero con una funcion, es decir, ejecuta algo.
+	* Bucle `for…in`  Es una instruccion que sirve para recorrer los datos de un objeto
+	* Notación de puntos vs notación de corchetes: La notacion de puntos es una manera de acceder a los datos de
+     un objeto usando el nombre del objeto, mas un punto seguido y el nombre de la clave. La notacion de corchetes
+     sirve tambien permite acceder a los datos de un objeto mediante el uso de corchetes y envolviendo la clave llamada
+     mediante comillas.
