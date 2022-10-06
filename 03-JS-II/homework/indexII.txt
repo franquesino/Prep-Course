@@ -1,0 +1,4 @@
+for: Es un comparador que actua de manera repetitiva hasta encontrar lo que se busca obtener.
+&&: Es decir "y" pero en lenguaje de programación. 
+|| : es lo mismo que decir o, pero en lenguaje de programación. Sirve para comparar.
+! : En un lenguaje de programación es lo mismo que decir distinto o diferente. Sirve para comparar.
