@@ -1,0 +1,2 @@
+`prototype`: Es una funcionalidad a traves de la cual un nuevo objeto herera las propiedades
+* _Constructors_ (de Clases): Un constructor es un inicio predeterminado para las clases de objetos.
